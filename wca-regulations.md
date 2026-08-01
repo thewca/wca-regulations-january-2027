@@ -452,7 +452,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11a3) Equipment malfunction.
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
-- 11e) The WCA Delegate may grant a competitor an extra attempt to replace an attempt affected by an incident. The competitor should appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
+- 11e) The WCA Delegate may grant a competitor an extra attempt to replace an attempt affected by an incident. The competitor should appeal to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
 - 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the solve when appropriate.
 - 11e++) [RECOMMENDATION] The WCA Delegate should record the reason(s) for the extra attempt (e.g. on the back of the score sheet).
 - 11e+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting an extra attempt after the solve is finished. The extra attempt should be granted only in exceptional circumstances.
