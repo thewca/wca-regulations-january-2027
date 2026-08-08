@@ -417,6 +417,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9v3) Dual Rounds must have the same format, cutoff, and time limit.
     - 9v4) The competitor's ranking in Dual Rounds is based on the better result of either round.
         - 9v4a) The results of both rounds are recorded and are eligible for the WCA world rankings (see [Regulation 9i](regulations:regulation:9i)) and regional records (see [Regulation 9i1](regulations:regulation:9i1)).
+        - 9v4b) If two competitors achieve the same average, the ranking is decided by the best single within the better average. 
     - 9v5) No competitors are eliminated between rounds during Dual Rounds.
         - 9v5a) Competitors with no results in the first round or results of only DNF and/or DNS in the first round are eligible to advance to the second round.
 
