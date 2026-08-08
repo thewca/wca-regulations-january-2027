@@ -350,7 +350,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9f12b) For 3x3x3 Fewest Moves, "better" is defined as the shorter solution length.
         - 9f12c) For 3x3x3 Multi-Blind, rankings are assessed based on the number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles are better.
     - 9f13) For "Mean of 3" and "Average of 5" formats, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
-    - 9f14) For "Mean of 3" and "Average of 5" formats, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
+    - 9f14) For "Mean of 3" and "Average of 5" formats, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result. Exception: for Dual Rounds (see [Regulation 9v4](regulations:regulation:9v4)), the best single within the better average determines the competitor's ranking.
     - 9f15) Competitors who achieve the same result receive an identical ranking.
     - 9f16) For Head to Head rounds:
         - 9f16a) Competitors are allotted attempts as described in [Article I](regulations:article:I).
@@ -417,7 +417,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9v3) Dual Rounds must have the same format, cutoff, and time limit.
     - 9v4) The competitor's ranking in Dual Rounds is based on the better result of either round.
         - 9v4a) The results of both rounds are recorded and are eligible for the WCA world rankings (see [Regulation 9i](regulations:regulation:9i)) and regional records (see [Regulation 9i1](regulations:regulation:9i1)).
-        - 9v4b) If two competitors achieve the same average, the ranking is decided by the best single within the better average. 
     - 9v5) No competitors are eliminated between rounds during Dual Rounds.
         - 9v5a) Competitors with no results in the first round or results of only DNF and/or DNS in the first round are eligible to advance to the second round.
 
