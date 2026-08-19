@@ -555,7 +555,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
     - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
     - 12h3) Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
-- 12i) Definition: A move is considered to be any change to the puzzle state in terms of the notation defined above, including misalignments beyond the limits described in [Regulation 10f](regulations:regulation:10f).
+- 12i) Definition: a move is considered to be any change to the puzzle state in terms of the notation defined above, including misalignments beyond the limits described in [Regulation 10f](regulations:regulation:10f).
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
     - 12i1) Exception: for Clock, only changes in the position of the inner clock faces are considered to be moves. Changes to the state of the pins are not considered to be moves.
 
@@ -639,7 +639,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - A4e) Time penalties for starting the solve are cumulative.
     - A4f) The competitor is responsible for starting the speedsolving timer correctly.
 - A5) During the solve:
-    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF). Exception: If the competitor does not gain an advantage by communicating with anyone other than the judge or the WCA Delegate, the result may stand, at the discretion of the WCA Delegate.
+    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF). Exception: if the competitor does not gain an advantage by communicating with anyone other than the judge or the WCA Delegate, the result may stand, at the discretion of the WCA Delegate.
     - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance in solving the puzzle from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
     - A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed (see [Regulation C1b](regulations:regulation:C1b)).
     - A5b++) [CLARIFICATION] If a part of the competitor's puzzle is popped out or detached (see [Regulation 5a](regulations:regulation:5a)), the competitor must not ask for assistance retrieving or locating the part and the judge should attempt to prevent others from assisting. If someone picks up a popped part for the competitor, the judge or competitor may ask them to place it on the solving station and not to assist any further.
