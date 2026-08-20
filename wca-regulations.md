@@ -412,7 +412,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9u2b) The end of the last calendar date of the competition is reached (see [Regulation 9i2](regulations:regulation:9i2)).
         - 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
 - 9v) Two consecutive rounds of an event may be designated as Dual Rounds.
-    - 9v1) Dual Rounds may include only the first two rounds of an event.
+    - 9v1) Dual Rounds must include only the first two rounds of an event.
     - 9v2) Dual Rounds must not include the final round of a National Championship, Continental Championship, or World Championship.
     - 9v3) Dual Rounds must have the same format, cutoff, and time limit.
     - 9v4) The competitor's ranking in Dual Rounds is based on the better result of either round.
