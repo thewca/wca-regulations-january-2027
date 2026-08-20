@@ -198,7 +198,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3k2) Penalty for attempts done with puzzles which are not permitted: disqualification of the attempt (DNF). The following exceptions apply:
     - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
         - 3k2a) If a non-permitted puzzle is found before a round is complete, affected results in the round may be replaced with extra attempts, at the discretion of the WCA Delegate.
-- 3l) A puzzle may have one or more logos on a colored part. If it does, it must have at most one colored part with a logo or multiple logos. Exception: For 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind, a puzzle must not have any logos.
+- 3l) A puzzle may have one or more logos on a colored part. If it does, at most one colored part may have a logo or multiple logos. Exception: For 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind, a puzzle must not have any logos.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 - 3l++) [CLARIFICATION] Logos are permitted for 3x3x3 Blindfolded, but not any other blindfolded events, including 3x3x3 Multi-Blind.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
