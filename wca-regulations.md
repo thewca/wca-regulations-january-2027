@@ -265,7 +265,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:B4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
     - 5b5) If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply:
     - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-    - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
+    - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing").
         - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
         - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
@@ -275,7 +275,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b5f+) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) available for [Regulation 5b5f](regulations:regulation:5b5f).
         - 5b5f++) [EXAMPLE] A 4x4x4 edge piece ("wing") twisted in place is considered solved.
         - 5b5f+++) [EXAMPLE] A corner affected by a corner twist is considered to be placed in a valid position, but such position does not render the piece solved.
-        - 5b5f++++) [CLARIFICATION] If there are multiple pieces partially detached or not fully placed, their final position is assessed one at a time. The piece that is closest to an open position is assessed first, and is then considered to occupy that position. This process is repeated until all partially detached or not fully placed pieces have been assessed.
+        - 5b5f++++) [CLARIFICATION] If there are multiple pieces partially detached or not fully placed, their final position is considered to be the closest open position. If more than one piece is closest to a single open position, the puzzle is rendered unsolved (DNF).
     - 5b6) Definition: A part is one or more fully connected components from a group of puzzle components that remain connected and do not move relative to each other during ordinary operation of the puzzle (e.g. a 3x3x3 center cap, a Pyraminx tip, a 3x3x3 corner piece missing one face, one face of a 3x3x3 corner piece).
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 - 5d) The competitor is not permitted to cause a puzzle defect intentionally. Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
