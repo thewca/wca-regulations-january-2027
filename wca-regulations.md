@@ -248,7 +248,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 4g1a++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube and Megaminx need to be corrected.
     - 4g2) For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
     - 4g3) After verifying the puzzle is scrambled correctly, the scrambler may pass the puzzle to another scrambler to verify. In this case, both scramblers should sign the scorecard.
-    - 4g3+) [RECOMMENDATION] All puzzles in the final round of a National Championship, Continental Championship or World Championship should be verified by a second scrambler.
+    - 4g3+) [RECOMMENDATION] All puzzles in the final round of a National Championship should be verified by a second scrambler. All puzzles in the final round of a Continental Championship or a World Championship must be verified by a second scrambler.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
