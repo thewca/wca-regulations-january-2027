@@ -857,12 +857,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - I4b1) Competitors in a match must use the same scramble sequences as each other for a point. Each point must use different scramble sequences and each match must use different scramble sequences.
     - I4c) Inspection:
         - I4c1) When both competitors are present at the solving station and when each judge is ready, the announcer asks "READY?".
-        - I4c2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer calls "START" and starts timing the inspection, beginning the point.
-        - I4c3) When 8 seconds of inspection have elapsed, the announcer calls "8 SECONDS".
-        - I4c4) When 11 seconds, 12 seconds, and 13 seconds of inspection have elapsed, the announcer calls "3", "2", and "1" respectively.
-        - I4c5) When 14 seconds of inspection have elapsed, the announcer calls "GO". The competitor must start the solve (see [Regulation A4d](regulations:regulation:A4d)) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF) at the discretion of the judge.
+        - I4c2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer or an automated mechanism calls "START" and starts timing the inspection, beginning the point.
+        - I4c3) When 8 seconds of inspection have elapsed, the announcer or an automated mechanism calls "8 SECONDS".
+        - I4c4) When 11 seconds, 12 seconds, and 13 seconds of inspection have elapsed, the announcer or an automated mechanism calls "3", "2", and "1" respectively.
+        - I4c5) When 14 seconds of inspection have elapsed, the announcer or an automated mechanism calls "GO". The competitor must start the solve (see [Regulation A4d](regulations:regulation:A4d)) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF) at the discretion of the judge.
         - I4c6) Due to modified inspection procedures, the usual penalties for not starting within 15 seconds (see [Regulation A4d1](regulations:regulation:A4d1) and [Regulation A4d2](regulations:regulation:A4d2)) do not apply in Head to Head rounds.
         - I4c7) The competitor must not start the solve before the announcer calls "GO". Penalty: disqualification of the attempt (DNF) at the discretion of the judge.
+        - I4c8) If an automated mechanism is used for calls, the mechanism must make the calls mentioned in Regulations [I4c2](regulations:regulation:I4c2), [I4c3](regulations:regulation:I4c3), [I4c4](regulations:regulation:I4c4), [I4c5](regulations:regulation:I4c5) and [I4c7](regulations:regulation:I4c7), and the announcer must only call "READY?".
     - I4d) Recording results:
         - I4d1) When recording the result, the judge also notes whether a competitor won or lost a point, or there was no winner, on the score sheet.
 - I5) Head to Head blindfolded solving procedures:
