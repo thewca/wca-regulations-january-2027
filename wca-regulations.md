@@ -608,7 +608,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted strictly less than 15 seconds to inspect the puzzle and start the solve.
-    - A3b) The judge prepares the timer by turning it on and resetting if necessary. If a Generation 5 Pro Timer is in use, the judge must ensure it is set to 4-Pad mode. Separately, the judge also prepares a stopwatch for timing inspection (see [Regulation A4d](regulations:regulation:A4d)).
+    - A3b) The judge prepares the timer by turning it on and resetting if necessary. The judge must ensure it is set to 4-Pad mode. Separately, the judge also prepares a stopwatch for timing inspection (see [Regulation A4d](regulations:regulation:A4d)).
         - A3b1) When the competitor is present at the solving station and the judge is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
         - A3b3) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
