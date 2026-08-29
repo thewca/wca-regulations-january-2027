@@ -202,7 +202,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 - 3l++) [CLARIFICATION] Logos are permitted for 3x3x3 Blindfolded, but not any other blindfolded events, including 3x3x3 Multi-Blind.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
-    - 3l1+) [CLARIFICATION] On NxNxN puzzles, a center piece is any piece with a single colored part. For example, the 5x5x5 Cube has 9 center pieces on each face.
+    - 3l1+) [CLARIFICATION] On NxNxN puzzles and Face Turning Octahedron, a center piece is any piece with a single colored part. For example, the 5x5x5 Cube has 9 center pieces on each face.
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
         - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
     - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
@@ -241,6 +241,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
+    - 4d6) Face Turning Octahedron is scrambled starting with the white face (if not possible, then the lightest face) on top, and the green face (if not possible, then the darkest face that shares a corner with the top face) in front. 
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) The following exceptions apply:
         - 4g1a) For 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
@@ -263,8 +264,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle. If multiple corner pieces have been twisted as a result of puzzle defects, the competitor may correct these twists, as long as the number of pieces corrected by the competitor does not exceed the number of pieces twisted as a result of puzzle defects.
     - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:B4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
     - 5b5) If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply:
-    - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-    - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
+    - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, one Face Turning Octahedron center piece (“triangle”), an inner piece of a big cube.
+    - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, two Face Turning Octahedron center pieces (“triangles”), a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
         - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
         - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
@@ -307,7 +308,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 - 9b) The official events of the WCA are:
 - 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-    - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
+    - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Face Turning Octahedron, Megaminx, Pyraminx, Skewb, and Square-1.
         - 9b1a) Full round format for these events: "Average of 5".
         - 9b1b) Cutoff format for these events: "Best of 2" cutoff phase for "Average of 5".
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
@@ -436,7 +437,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
     - 10f1) NxNxN Cubes: at most 45 degrees.
     - 10f2) Megaminx: at most 36 degrees.
-    - 10f3) Pyraminx and Skewb: at most 60 degrees.
+    - 10f3) Face Turning Octahedron, Pyraminx and Skewb: at most 60 degrees.
     - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
     - 10f4+) [CLARIFICATION] When counting the moves in case of a misalignment at the end of a solve, X and Y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
 - 10i) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
@@ -545,6 +546,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who is holding the Pyraminx.
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
     - 12e3) Counter-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
+- 12f) Notation for Face Turning Octahedron:
+    - 12f1) The puzzle is oriented with four faces visible, and the corner between them facing the scrambler. 
+    - 12f2) Clockwise, 120 degrees: U (upper face), F (front face), R (right face), L (left face), B (back face), D (bottom face), BR (back-right face), BL (back-left face).
+    - 12f3) Counter-clockwise, 120 degrees: U (upper face), F (front face), R (right face), L (left face), B (back face), D (bottom face), BR (back-right face), BL (back-left face).
 - 12g) Notation for Clock:
     - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
