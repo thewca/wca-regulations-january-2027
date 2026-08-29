@@ -549,7 +549,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 12f) Notation for Face Turning Octahedron:
     - 12f1) The puzzle is oriented with four faces visible, and the corner between them facing the scrambler. 
     - 12f2) Clockwise, 120 degrees: U (upper face), F (front face), R (right face), L (left face), B (back face), D (bottom face), BR (back-right face), BL (back-left face).
-    - 12f3) Counter-clockwise, 120 degrees: U (upper face), F (front face), R (right face), L (left face), B (back face), D (bottom face), BR (back-right face), BL (back-left face).
+    - 12f3) Counter-clockwise, 120 degrees: U' (upper face), F' (front face), R' (right face), L' (left face), B' (back face), D' (bottom face), BR' (back-right face), BL' (back-left face).
 - 12g) Notation for Clock:
     - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
