@@ -391,7 +391,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9p2b+++) [RECOMMENDATION] Any use of reserved spaces should be clearly announced before the competition.
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
     - 9p3+) [CLARIFICATION] If a non-qualifying competitor would replace a qualifying competitor in this way, they may also withdraw, allowing the next best-ranked competitor to take their place.
-    - 9p4) A competitor with results of only DNF and/or DNS is not eligible to advance.
+    - 9p4) A competitor with results of only DNF and/or DNS is not eligible to advance. Exception: See [Regulation 9v5a](regulations:regulation:9v5a).
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 - 9t) If any change occurs to the results of a competitor after the competition has ended (e.g. score-taking mistake, retroactive penalty), such that the competitor would not have advanced to the next round (or was not allowed to take part in the round), all results of this competitor for all subsequent rounds must be removed (see [Regulation 9u](regulations:regulation:9u)).
