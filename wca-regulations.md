@@ -608,7 +608,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted strictly less than 15 seconds to inspect the puzzle and start the solve.
-    - A3b) The judge prepares the timer by turning it on and resetting if necessary. If a Generation 5 Pro Timer is in use, the judge must ensure it is set to 2-Pad mode. Separately, the judge also prepares a stopwatch for timing inspection (see [Regulation A4d](regulations:regulation:A4d)).
+    - A3b) The judge prepares the timer by turning it on and resetting if necessary. The judge must ensure it is set to 4-Pad mode. Separately, the judge also prepares a stopwatch for timing inspection (see [Regulation A4d](regulations:regulation:A4d)).
         - A3b1) When the competitor is present at the solving station and the judge is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
         - A3b3) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
@@ -628,7 +628,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c5+) [REMINDER] As a puzzle state where a / move cannot be applied is not a valid scramble state (see [Regulation 4b3d](regulations:regulation:4b3d)), an extra attempt must be provided if [Regulation 11i1](regulations:regulation:11i1) applies.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the speedsolving timer. Penalty: time penalty (+2 seconds).
 - A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the speedsolving timer. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor uses their fingers to touch the larger sensor surfaces of the speedsolving timer, and their thumbs to touch the smaller sensor surfaces. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a speedsolving timer is in use, the competitor should keep their hands on the timer until the timer is ready to start. The timer is started when the competitor removes their hand(s) from the timer. The competitor starts the solve by starting the timer.
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
@@ -653,7 +653,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A6b1+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about speedsolving timer malfunctions.
         - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: The WCA Delegate may provide an extra attempt if they believe the timer may have malfunctioned and the competitor did not stop the timer deliberately.
     - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds). Exception: if the judge is unable to determine whether any move or any change in alignment has been applied after stopping the timer and before releasing the puzzle, the attempt may be disqualified (DNF), at the discretion of the judge.
-    - A6d) The competitor must stop the speedsolving timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
+    - A6d) The competitor must stop the speedsolving timer using both hands, placed flat on the sensors with palms facing downward. Penalty: time penalty (+2 seconds).
     - A6e) After stopping the timer, the competitor must not touch, apply a move, or make any change in alignment to the puzzle, until the judge has determined whether the puzzle is solved (see [Regulation A6g](regulations:regulation:A6g)).
     - A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
     - A6e++) [CLARIFICATION] If [Regulation A6c](regulations:regulation:A6c) is used to penalize an attempt, the penalties in [Regulation A6e](regulations:regulation:A6e) should only be applied if the competitor releases the puzzle and touches it again before the judge inspects it.
@@ -691,7 +691,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A7g+) [EXAMPLE] Examples of incidents that could grant a competitor an extra attempt due to inexperience: improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
     - A7g++) [CLARIFICATION] Individual penalties cannot be waived. A full extra attempt must be granted.
     - A7g+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same competitor, especially for the same type of incident.
-    - A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
+    - A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, if it is their first time competing with a specific type of timer hardware, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
@@ -703,7 +703,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 - B2) Starting the attempt:
     - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
-    - B2b) When using the speedsolving timer, the competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
+    - B2b) When using the speedsolving timer, the competitor uses their fingers to touch the larger sensor surfaces of the timer, and their thumbs to touch the smaller sensor surfaces. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
     - B2c) When using the speedsolving timer, the competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
     - B2d) When using the speedsolving timer, the competitor should keep their hands on the timer until the timer is ready to start. The timer is started when the competitor removes their hand(s) from the timer. The competitor starts the attempt and the solve by starting the timer.
     - B2d+) [ADDITION] By default, the competitor starts the solve the first time that they start the timer after the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). If they want to check that the timer is in working order, they must (ask and) receive confirmation from the judge each time before starting/resetting the timer during this phase. Penalty for starting and resetting a timer without confirmation from the judge: disqualification of the attempt (DNF).
