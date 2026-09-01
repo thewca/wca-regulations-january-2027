@@ -865,6 +865,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - I4c7) The competitor must not start the solve before the announcer calls "GO". Penalty: disqualification of the attempt (DNF) at the discretion of the judge.
     - I4d) Recording results:
         - I4d1) When recording the result, the judge also notes whether a competitor won or lost a point, or there was no winner, on the score sheet.
+        - I4d2) Different scorecards may be used for scrambler signatures and for recording results.
 - I5) Head to Head blindfolded solving procedures:
     - I5a) Standard speed solving procedures (as described in [Article A](regulations:article:A)), blindfolded solving procedures (as described in [Article B](regulations:article:B)) and Head to Head speed solving procedures (as described in [Regulation I4](regulations:regulation:I4)) are followed. Additional regulations that supersede the corresponding procedures are described below.
     - I5b) Starting the attempt:
