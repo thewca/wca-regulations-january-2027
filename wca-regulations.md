@@ -592,6 +592,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A2a3+) [REMINDER] Competitors should not be permitted to view the scramble sequences for their own group even after having completed all their attempts, unless permission has been granted by the WCA Delegate (see [Regulation 4b2+](regulations:regulation:4b2+)).
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
         - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, the organization team should make an announcement before the round starts.
+        - A2b2) The round begins if the first scramble sequence is applied to a submitted puzzle.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
         - A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
