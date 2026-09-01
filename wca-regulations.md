@@ -300,7 +300,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 7h) If competitors do not remain at the same solving station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
     - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait to be called to a solving station.
     - 7h2+) [ADDITION] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
-
+- 7i) The WCA Delegate should ensure that equal conditions are maintained for all competitors during the round.
 
 ## <article-9><events><events> Article 9: Events
 
