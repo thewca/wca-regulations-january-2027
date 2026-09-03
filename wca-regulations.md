@@ -265,7 +265,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:B4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
     - 5b5) If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply:
     - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, one Face Turning Octahedron center piece ("triangle"), an inner piece of a big cube.
-    - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, two Face Turning Octahedron center pieces (“triangles”), a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
+    - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, two Face Turning Octahedron center pieces ("triangles"), a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
         - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
         - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
