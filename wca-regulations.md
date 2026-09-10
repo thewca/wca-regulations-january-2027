@@ -197,7 +197,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3k1) If a non-permitted puzzle is found during a round, the competitor must not continue to use the puzzle, and must submit a replacement.
     - 3k2) Penalty for attempts done with puzzles which are not permitted: disqualification of the attempt (DNF). The following exceptions apply:
     - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
-        - 3k2a) If a non-permitted puzzle is found before a round is complete, affected results in the round may be replaced with extra attempts, at the discretion of the WCA Delegate.
+        - 3k2a) If a non-permitted puzzle is found before any following round of the same event has started, affected results in the round may be replaced with extra attempts, at the discretion of the WCA Delegate.
 - 3l) A puzzle may have one or more logos on a colored part. If it does, it must have at most one colored part with a logo or multiple logos. Exception: For 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind, a puzzle must not have any logos.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 - 3l++) [CLARIFICATION] Logos are permitted for 3x3x3 Blindfolded, but not any other blindfolded events, including 3x3x3 Multi-Blind.
@@ -367,7 +367,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
 - 9l) Each round must be completed before any following round of the same event can start. The following exceptions apply:
     - 9l1) Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid, but must not be given after the competition has ended (see [Regulation 9u](regulations:regulation:9u)). An attempt is considered invalid if an extra attempt is required to be granted.
-    - 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
+    - 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result.
     - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt within the scope of [Regulation 11i1](regulations:regulation:11i1) that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
     - 9l2) For Dual Rounds, the second round may start before the first round is completed. This is because progression to the second round does not depend upon the results of the first round (see [Regulation 9v5](regulations:regulation:9v5)).
 - 9m) Events must have at most four rounds.
