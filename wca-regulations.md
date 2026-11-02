@@ -485,7 +485,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Regulation 4g3](regulations:regulation:4g3)).
     - 11i1++) [RECOMMENDATION] For results meeting these criteria, the WCA Delegate should attempt to further verify, e.g. with available video evidence, that the puzzle was scrambled correctly, before the end of the competition.
     - 11i1+++) [ADDITION] If requested by competitors with results meeting these criteria, the WCA Delegate must provide access to the relevant scramble sequences before the end of the competition.
-        - 11i1a) The individual result is a regional record or a personal record in the top 50 competitors of the world rankings.
+        - 11i1a) The individual result is a regional record, or a personal record in the top 50 competitors of the world rankings.
         - 11i1b) The average or mean the result is a part of is a regional record, or part of a personal record in the top 50 competitors of the world rankings.
         - 11i1d) The result was achieved by solving the puzzle in fewer moves than the limits defined in [Regulation 4b3](regulations:regulation:4b3).
         - 11i1e) Exception to [11i1a](regulations:regulation:11i1a) and [11i1b](regulations:regulation:11i1b): for 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx, and 3x3x3 Multi-Blind, [Regulation 11i2](regulations:regulation:11i2) applies instead.
