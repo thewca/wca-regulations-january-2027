@@ -470,7 +470,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 11f) Decisions about an incident may be supported with video, photographic, or audio evidence, at the discretion of the WCA Delegate.
     - 11f1) Video, and similar forms of recorded evidence, should be reviewed in real time. Exception: slow-motion or frame-by-frame analysis may be used in the following circumstances:
     - 11f1+) [RECOMMENDATION] The WCA Regulations Committee should be consulted if slow-motion or frame-by-frame analysis are required.
-        - 11f1a) The individual result is a regional record or a personal record in the top 50 competitors of the world rankings.
+        - 11f1a) The individual result is a regional record, or a personal record in the top 50 competitors of the world rankings.
         - 11f1b) The average or mean the result is a part of is a regional record, or part of a personal record in the top 50 competitors of the world rankings.
         - 11f1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
         - 11f1d) To support the removal of any penalty originally assessed by the judge or WCA Delegate (see [Regulation 11f2a](regulations:regulation:11f2a)).
