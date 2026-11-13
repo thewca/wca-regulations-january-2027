@@ -628,7 +628,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c5+) [REMINDER] As a puzzle state where a / move cannot be applied is not a valid scramble state (see [Regulation 4b3d](regulations:regulation:4b3d)), an extra attempt must be provided if [Regulation 11i1](regulations:regulation:11i1) applies.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the speedsolving timer. Penalty: time penalty (+2 seconds).
 - A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the larger sensor surfaces of the speedsolving timer, and their thumbs to touch the smaller sensor surfaces. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor uses their fingers to touch the larger sensor surfaces of the speedsolving timer, and their thumbs to touch the smaller sensor surfaces. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to the competitor. A single hand cannot be used to activate more than 2 pads. Penalty for starting the timer improperly: time penalty (+2 seconds).
+
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a speedsolving timer is in use, the competitor should keep their hands on the timer until the timer is ready to start. The timer is started when the competitor removes their hand(s) from the timer. The competitor starts the solve by starting the timer.
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
