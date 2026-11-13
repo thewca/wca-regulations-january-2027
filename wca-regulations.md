@@ -442,6 +442,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10i) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
     - 10i1) Inner clock faces that do not clearly point to a particular hour marker are considered to point to the nearest hour marker.
     - 10i2) The solved state of Clock is not affected by loose or popped pin caps.
+    - 10i3) If all eighteen inner clock faces do not point to 12 o'clock, the puzzle is considered unsolved (DNF).   
 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
